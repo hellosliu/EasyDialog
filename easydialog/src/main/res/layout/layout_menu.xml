@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.liu.easydialog.widget.NRollListView
+        android:id="@+id/lv_menu"
+        android:layout_margin="12dp"
+        android:divider="#60000000"
+        android:dividerHeight="1px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:focusableInTouchMode="true">
+
+    </com.liu.easydialog.widget.NRollListView>
+
+    <TextView
+        android:id="@+id/tv_cancel"
+        android:padding="10dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginBottom="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_menu"
+        android:textSize="16sp"
+        android:textColor="@android:color/holo_blue_light"
+        android:gravity="center"
+        android:text="@string/menu_cancel"/>
+
+</LinearLayout>
