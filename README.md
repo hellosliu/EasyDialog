@@ -1,9 +1,8 @@
 # EasyDialog
+###EasyDialog两种模式 仿QQ退出向上菜单，自定义向上菜单
 ===========================
 <img src='https://github.com/hellosliu/EasyDialog/blob/master/images/menu.gif' height='400'/> 
 <img src='https://github.com/hellosliu/EasyDialog/blob/master/images/customer.gif' height='400'/>
-
-###EasyDialog两种模式 仿QQ退出向上菜单，自定义向上菜单
 
 ### Usage
 使用build创建dialog
