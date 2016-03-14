@@ -48,3 +48,5 @@ easyDialog.show();
 //隐藏对话框
 easyDialog.dismiss();
 ```
+
+###EasyDialo觉得好用，请点上面星星
