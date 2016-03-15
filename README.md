@@ -4,6 +4,10 @@
 <img src='https://github.com/hellosliu/EasyDialog/blob/master/images/menu.gif' height='400'/> 
 <img src='https://github.com/hellosliu/EasyDialog/blob/master/images/customer.gif' height='400'/>
 
+### Gradle
+```groovy
+compile 'com.liu.easydialog:easydialog:1.0.0'
+```
 ### Usage
 使用build创建dialog
 #####仿QQ退出时的向上菜单
